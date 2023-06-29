@@ -178,7 +178,7 @@ let array4 = ["Ruby", "Solidity"];
 // const restArray = array3.splice(0, 2, ...array4);
 // console.log(array3);
 
-// IMPORTANT //
+//! IMPORTANT //
 let arrayNumber = [4, 74, 28, 12, 1];
 // console.log(arrayNumber.reduce((x, y) => x + y));
 arrayNumber.push(17);
@@ -194,7 +194,7 @@ arrayNumber.push(17);
 //   .join("");
 
 //-----------------
-// Méthodes Objects
+//! Méthodes Objects
 //-----------------
 // document.body.innerHTML = data
 //   .filter((user) => user.pseudo.includes("a"))
